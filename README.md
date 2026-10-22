@@ -1,3 +1,6 @@
+
+<img width="1280" height="640" alt="asteroid-social-preview" src="https://github.com/user-attachments/assets/165e3d1b-98a3-4695-ba21-04b402950ee5" />
+
 ## Asteroid Orbit Classification with Machine Learning (ReDI School)
 
 This project was developed as a final project for the ReDI School Data Science course in spring 2021.
